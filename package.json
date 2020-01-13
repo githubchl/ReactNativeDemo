@@ -9,7 +9,10 @@
   "dependencies": {
     "react": "16.6.1",
     "react-native": "0.57.7",
-    "react-native-splash-screen": "^3.2.0",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-modals": "^0.19.9",
+    "react-native-picker": "^4.3.7",
+    "react-native-storage": "^1.0.1",
     "react-navigation": "^2.18.3"
   },
   "devDependencies": {
