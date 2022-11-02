@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "^16.6.1",
-    "react-native": "^0.57.7",
+    "react-native": "^0.70.4",
     "react-native-datepicker": "^1.7.2",
     "react-native-modals": "^0.19.9",
     "react-native-picker": "^4.3.7",
